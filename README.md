@@ -1,6 +1,7 @@
 # 🏥 Medical Image Classification using Computer Vision
 
-📌 Introduction: 
+📌 Introduction
+
 Computer Vision (CV) is transforming medical diagnostics, aiding in the detection of diseases across multiple fields:
 
 Dermatology – Identifying skin conditions.
@@ -8,7 +9,8 @@ Ophthalmology – Detecting eye disorders.
 Histopathology – Analyzing tissue abnormalities.
 X-ray Imaging – Diagnosing lung cancer, pneumonia, and more.
 
-🎯 Project Overview: 
+🎯 Project Overview
+
 This project focuses on classifying chest X-ray images to detect medical conditions using deep learning.
 
 🔍 Key Steps:
