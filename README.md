@@ -16,5 +16,8 @@ This project focuses on classifying chest X-ray images to detect medical conditi
 🔍 Key Steps:
 
 ✔️ Data Preprocessing – Prepare images for training, validation, and testing.
+Link "https://arxiv.org/abs/1705.02315"
+
 ✔️ Pre-trained Model Utilization – Implement CNN-based models for accurate predictions.
+
 ✔️ ChestX-ray8 Dataset – Work with a large, publicly available dataset.
